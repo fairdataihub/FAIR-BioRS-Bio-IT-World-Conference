@@ -32,7 +32,7 @@ We list here major resources relevant to the presentation
 
 ## License
 The material in this repository is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by]. 
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
