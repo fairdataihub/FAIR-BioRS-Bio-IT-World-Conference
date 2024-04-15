@@ -11,7 +11,7 @@ Bhavesh Patel has been invited to give a talk on making biomedical research soft
 
 ## Material
 
-Slides: [2024-04-15-Bio-IT-FAIR-Software-Patel.pdf](2024-04-15-Bio-IT-FAIR-Software-Patel.pdf)
+Slides: [2024-04-15-Bio-IT-FAIR-Software.pdf](2024-04-15-Bio-IT-FAIR-Software.pdf)
 
 ## Resources
 
